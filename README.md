@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/pMKV5LQNxDAAAAAd/aigis.gif"  />
+<img data-importer="image" align="right" height="150" src="aigis.gif"  />
 
 ###
 

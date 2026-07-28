@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/pMKV5LQNxDAAAAAd/aigis.gif"  />
 
 ###
@@ -38,9 +40,6 @@
   <a href="https://discord.com/users/643412777515352065" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="justus.opz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://sg.linkedin.com/in/justus-ong-a82593315" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -57,6 +56,8 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/Extra28/Extra28/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Extra28/Extra28/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

@@ -48,19 +48,3 @@
 <p data-importer="text" align="left">Hi! I'm a Cybersecurity Student under Temasek Poly (Currently), and am working on multiple projects to become more proficient at Linux! I started out running Minecraft server instances on Termux, and I'm currently working on expanding this project! Current goals include adding loggable metrics to monitor phone battery health and temperatures, as well as a script to turn off various smart plugs charging said phones to reduce battery degradation.</p>
 
 ###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Extra28/Extra28/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Extra28/Extra28/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Extra28&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Extra28/Extra28/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
